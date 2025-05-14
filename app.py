@@ -1,5 +1,6 @@
-age = 22
+def greet():
+    print("This is a function")
+    print("I am getting better in life")
 
-message = "Eligible" if age > 18 else "Not Eligible"
 
-print(message)
+greet()
